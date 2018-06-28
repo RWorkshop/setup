@@ -1,6 +1,6 @@
 already_installed <- installed.packages()
 
-tidyverse_list <- c("dplyr","magrittr","broom","tidyr","modelr","recipes","purrr")
+tidyverse_list <- c("dplyr","magrittr","broom","tidyr","modelr","recipes","purrr","lubridate","stringr")
 
 install_these <- setdiff(tidyverse_list, already_installed)
 
