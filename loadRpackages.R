@@ -4,3 +4,4 @@ source("https://raw.githubusercontent.com/RWorkshop/setup/master/Installpackages
 source("https://raw.githubusercontent.com/RWorkshop/setup/master/Installpackages/04_stats_packages.R")
 source("https://raw.githubusercontent.com/RWorkshop/setup/master/Installpackages/05_MachineLearning.R")
 source("https://raw.githubusercontent.com/RWorkshop/setup/master/Installpackages/06_foundation.R")
+source("https://raw.githubusercontent.com/RWorkshop/setup/master/Installpackages/07_data.table.R")
