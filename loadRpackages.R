@@ -1,0 +1,6 @@
+source("https://raw.githubusercontent.com/RWorkshop/setup/master/Installpackages/01_tidyverse.R")
+source("https://raw.githubusercontent.com/RWorkshop/setup/master/Installpackages/02_dataviz_packages.R")
+source("https://raw.githubusercontent.com/RWorkshop/setup/master/Installpackages/03_GIS.R")
+source("https://raw.githubusercontent.com/RWorkshop/setup/master/Installpackages/04_stats_packages.R")
+source("https://raw.githubusercontent.com/RWorkshop/setup/master/Installpackages/05_MachineLearning.R")
+source("https://raw.githubusercontent.com/RWorkshop/setup/master/Installpackages/06_foundation.R")
