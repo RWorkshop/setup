@@ -1,5 +1,5 @@
 
-package_list <- c("ggcorrplot","WVPlots","GGally")
+package_list <- c("ggcorrplot","WVPlots","GGally","ggthemes","gcookbook")
 
 already_installed <- installed.packages()
 
