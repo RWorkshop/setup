@@ -1,6 +1,6 @@
 package_list <- c("pscl","VGAM")
 
-load_these <- setdiff(package_list, installed.packages())
+install_these <- setdiff(package_list, installed.packages())
 
-install.packages(load_these, repos = "https://ftp.heanet.ie/mirrors/cran.r-project.org/")
+if( length(install_these) >0 ){ install.packages(install_these, repos = "https://ftp.heanet.ie/mirrors/cran.r-project.org/")}
 
